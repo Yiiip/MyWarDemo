@@ -1,0 +1,1 @@
+if (skillAimingTimer > 0) skillAimingTimer -= 1;
